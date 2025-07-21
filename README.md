@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alisha
 - 👀 I’m interested in making projects and learning new things
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning python and dsa
 - 💞️ I’m looking to collaborate on projects on java
 - 📫 How to reach me: mail- alishasawant17@gmail.com
 - 😄 Pronouns: she/her
