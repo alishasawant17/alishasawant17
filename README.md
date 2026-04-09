@@ -1,11 +1,53 @@
-👋 Hi, I’m @alisha  
-👀 I’m interested in building projects and learning new tech  
-🌱 I’m currently learning Spring Boot, React, JavaScript & strengthening DSA on LeetCode  
-💞️ I’m looking to collaborate on projects related to Java, DSA & Spring Boot  
-📫 How to reach me: alishasawant17@gmail.com  
-😄 Pronouns: she/her  
-⚡ Fun fact: I sometimes ghostwrite blogs — and I can solve a Rubik’s cube in under a minute!
+# 👋 Hi, I'm Alisha
 
+🚀 Passionate about building real-world applications and continuously learning new technologies.
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: Java, JavaScript, Python, C++
+- 🌐 Web: HTML, CSS, React
+- ⚙️ Backend: Servlets, JSP
+- 🗄️ Database: MySQL
+- 📊 Currently improving: DSA (LeetCode)
+
+---
+
+## 🌱 Currently Learning
+- Spring Boot (Backend Development)
+- React (Frontend)
+- System Design Basics
+
+---
+
+## 💻 Projects
+🔹 **SkillBazaar** – Online Course Selling Platform  
+- Built using JSP, Servlets, MySQL  
+- Features: Admin, Instructor, Student dashboards  
+
+🔹 **Password Generator (React)**  
+- Generates secure passwords with custom options  
+- Built using React  
+
+🔹 **CoffeeShopManager (Java Swing)**  
+- Desktop application to manage menu & employees  
+
+---
+
+## 💞️ Open to Collaborate On
+- Java / Spring Boot Projects  
+- DSA Practice  
+- Web Development Projects  
+
+---
+
+## 📫 Contact Me
+📧 alishasawant17@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+I sometimes ghostwrite blogs ✍️  
 
 
 ## 🌐 Socials:
